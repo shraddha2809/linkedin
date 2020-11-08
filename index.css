@@ -1,0 +1,229 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body {
+    background-color: rgb(236, 235, 235);
+    
+}
+.rightbar i{
+    color: gray;
+}
+.rightbar  .fa:hover{
+   color: black;
+}
+
+.topbar{position: relative;
+    bottom: 9px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: white;
+
+}
+.bar{
+    margin: 5px;
+    padding: 7px;
+    width: 485px;
+    height: 53px;
+
+}
+.leftbar{
+     display: flex;
+     
+}
+.rightbar{
+    display: flex;
+
+}
+.toolleft{
+    padding: 1%;
+
+}
+.toolright{font-size: 20px;
+    
+    padding: 3%;
+    color: black;position: relative;bottom: 20px;
+    margin: 3px;
+}
+.span1{
+    position: relative;
+    bottom: 6px;
+}
+.centerbox{padding: 40px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+.cardleft{ 
+    text-align: center;
+}
+.firstcard{ border: 1px;
+   border-radius: 10px;
+    text-align: center;
+     width: 289px;
+     font-size: 12px;
+     padding: 2%;
+     /*box-shadow: 0 4px 7px 0 rgba(0, 0, 0, 0.6);*/
+    border-color: #111111;
+    height: fit-content;
+    background-color:white;
+} 
+
+.postbar{
+    border: 1px ;
+    border-radius: 11px;
+    background-color: white;
+    width: fit-content;
+    font-size: 14px;
+    
+    
+
+}
+
+.img1{
+    box-shadow: 0 4px 7px 0 rgba(0, 0, 0, 0.6);
+    border-color: #111111;
+}
+.whoview{
+    display: flex;
+   
+}
+.no{
+    margin-left: auto;
+}
+.access,.premium{
+    text-align: start;
+}
+.my:hover{
+    background-color: rgb(202, 202, 202);
+    
+}
+.my{
+    padding: 0px;
+}
+.pro{
+
+}
+.item{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.icon{
+    padding: 0%;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    padding: 3%;
+}
+
+
+.postbar{
+    text-align: center;
+}
+.item4{
+    display: flex;
+    justify-content: center;
+    padding: 4%;
+    font-size: 17px;
+}
+.card{flex-wrap: wrap;
+    width: fit-content;
+    height: fit-content;
+    margin: 5px;
+    display: flex;
+
+}
+.input2{outline-style: none;font-size: 14px;
+    width: 500px;
+    height: 50px;
+    padding: 2%;
+
+
+}
+.text{
+    padding-left: 5px;
+}
+.comment{
+    display: flex;
+    padding: 1%;
+}
+.spa{
+    padding: 4px;
+    border: 2px solid;
+    border-radius: 100px;
+    border-color: gray;
+    font-size: 13px;
+    color: gray;
+}
+.spa1:hover{
+    color: rgb(126, 126, 126);
+
+}
+.spa:hover{
+    background-color: rgb(170, 170, 170);
+}
+.cardright{
+    text-align: initial;
+}
+ul{
+
+}
+.post{
+    position: relative;
+    top: 13px;
+}
+.row1,.postbar{
+    border-radius: 10px;
+    background-color: white;
+}
+.row1 img{
+    border-radius: 34px;
+}
+.down2 li{
+    list-style: none;
+    color: rgb(126, 126, 126);
+}
+.down2{padding: 3%;
+    text-align: start;
+    
+
+    position: relative;
+    top: 14px;
+}
+.down2 li i{
+    padding-right: 10px;
+}
+.centerdiv{
+    padding: 15px;
+    position: relative;
+    bottom: 20px;
+}
+.div2{
+    position: relative;
+    bottom: 8px;
+}
+.sometext{
+    font-size: 13px;
+
+}
+.secondbox1{
+    font-size: 11px;
+    color: gray;
+}
+.item4:hover{color: gray;}
+
+.div2 ul li:hover{
+    background-color: rgb(214, 213, 213);
+    
+}
+.down2 li:hover{background-color: rgb(202, 202, 202);}
+video{
+    padding-top: 10px;
+    width: 100%;
+}
